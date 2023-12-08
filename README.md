@@ -1,5 +1,7 @@
 # Data Analysis Project: Marketing Campaign Planning
 
+![Logo](https://my.sectionschool.com/images/Section_Logo_RGB_Black_3x.png)
+
 ## Overview
 This project was part of the "Intro to Data Analysis" sprint led by Sarah Evangeline Norman, a data leader at TikTok, aimed at equipping participants with essential data analysis skills. The project focused on leveraging the Inquiry-to-Insight framework to tackle real-world business problems using data.
 
@@ -44,8 +46,8 @@ During the sprint, key skills were acquired and subsequently implemented in the 
 - **Key insight:** Shoes represent the highest share, contributing more than 60% of the total revenue, while perfume and jewelry categories the least with both falling below 5% of the total revenue.
 
 ## Project Link:
-- **Google Sheet:** [Link to the Google Sheet containing the analysis]([insert_link_here](https://docs.google.com/spreadsheets/d/1Ryn3-6vBH8RA6wPIzNl1BIa5xU-DSi9TZPVqznsTbNk/edit?usp=sharing))
-- **Presentation Slide:** [Link to the presentation summarizing findings]([insert_link_here](https://docs.google.com/presentation/d/1pwWMboAhIS0bcoQpzlMlG3Wk1osipW4GlpCftk0rHc4/edit?usp=sharing)https://docs.google.com/presentation/d/1pwWMboAhIS0bcoQpzlMlG3Wk1osipW4GlpCftk0rHc4/edit?usp=sharing)
+- **Google Sheet:** [Link to the Google Sheet containing the analysis](https://docs.google.com/spreadsheets/d/1Ryn3-6vBH8RA6wPIzNl1BIa5xU-DSi9TZPVqznsTbNk/edit?usp=sharing)
+- **Presentation Slide:** [Link to the presentation summarizing findings](https://docs.google.com/presentation/d/1pwWMboAhIS0bcoQpzlMlG3Wk1osipW4GlpCftk0rHc4/edit?usp=sharing)
 
 ## Bonus:
 - You can find templates to add in the slide your own custom analysis.
