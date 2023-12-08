@@ -50,4 +50,4 @@ During the sprint, key skills were acquired and subsequently implemented in the 
 - **Presentation Slide:** [Link to the presentation summarizing findings](https://docs.google.com/presentation/d/1pwWMboAhIS0bcoQpzlMlG3Wk1osipW4GlpCftk0rHc4/edit?usp=sharing)
 
 ## Bonus:
-- You can find templates to add in the slide your own custom analysis.
+- You can find templates in the slide for your own custom analysis.
